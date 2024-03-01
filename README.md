@@ -8,7 +8,7 @@ I am learning the rust language to further my skills in computer programming and
 
 # Development Environment
 
-I used Virtual Studio Code as the environment for my code, and used a windows terminal to execute the code. Used this link to start my first project in Rust along with the second link to download the Rust Analyzer:
+I used Virtual Studio Code as the environment for my code, used a windows terminal to execute the code, and GitHub to publish my code. Used this link to start my first project in Rust along with the second link to download the Rust Analyzer:
 
 [Rust Analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
 
